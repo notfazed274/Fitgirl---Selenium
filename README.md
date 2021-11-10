@@ -1,2 +1,2 @@
 # Fitgirl---Selenium
-Automatización con Selenium realizando algunos assertions.
+Automatización con Selenium en un sitio de repacks realizando algunos assertions.
